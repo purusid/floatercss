@@ -23,6 +23,7 @@ a {
     display: flex;
     position: sticky;
     top: 0;
+    overflow: scroll;
 }
 
 .top-bar>img {
