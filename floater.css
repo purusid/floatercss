@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transition: all .3s linear;
+    scrollbar-width: none;
 }
 
 body {
@@ -23,7 +24,6 @@ a {
     display: flex;
     position: sticky;
     top: 0;
-    overflow-x: scroll;
 }
 
 .top-bar>img {
